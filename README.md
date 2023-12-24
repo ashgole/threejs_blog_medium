@@ -23,5 +23,5 @@ https://medium.com/@ashabb/threejs-debug-ui-16739de1bd7a
 7. THREEJS Material
 https://medium.com/@ashabb/threejs-material-77764b06237d
 
-8. THEJS 3D TEXT
+8. THREEJS 3D TEXT
 https://medium.com/@ashabb/thejs-3d-text-32da167960dc
