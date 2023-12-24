@@ -1,6 +1,6 @@
 # ASHABB ThreeJS
 
-https://medium.com/@ashabb/list/threejs-blog-b7724051a744
+https://medium.com/@ashabb/list/ashabb-threejs-blog-b7724051a744
 
 ## you will get All blogs on Medium - ASHABB ThreeJS
 
